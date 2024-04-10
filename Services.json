@@ -1,0 +1,118 @@
+[
+    "Services",
+    {
+        "Service id": "0001",
+        "type": "RealEstate Photo Edit",
+        "name": "Creative Estates",
+        "Success Rate(In Future)": "100% due to its quality output and +ve clients reviews!",
+        "Team": {
+            "Members(No Personal Data Revealed of Employees)": [
+                {
+                    "id": "1001",
+                    "type": "Twilight and Virtual Staging Expert!"
+                },
+                {
+                    "id": "1002",
+                    "type": "HDR Expert"
+                },
+                {
+                    "id": "1003",
+                    "type": "Obstacle Remover"
+                }
+            ]
+        },
+        "Services": [
+            {
+                "id": "2001",
+                "type": "Image Enhancement",
+                "price": "$0.7"
+            },
+            {
+                "id": "2002",
+                "type": "Photo Corrections",
+                "price": "$0.6"
+            },
+            {
+                "id": "2005",
+                "type": "HDR Blending Corrections",
+                "Price": "$0.7"
+            },
+            {
+                "id": "2007",
+                "type": "Perspective Corrections",
+                "price": "$0.7"
+            },
+            {
+                "id": "2006",
+                "type": "Sky Replacement",
+                "price": "$0.4"
+            },
+            {
+                "id": "2003",
+                "type": "Drone Image Editing",
+                "price": "$2"
+            },
+            {
+                "id": "2004",
+                "type": "Twilight",
+                "price": "$5"
+            },
+            {
+                "id": "2004",
+                "type": "Virtual Staging",
+                "price": "$18"
+            },
+            {
+                "id": "2004",
+                "type": "360 degree",
+                "price": "$3"
+            }
+        ]
+    },
+    {
+        "Service id": "0002",
+        "type": "Web Applications",
+        "name": "TheBrainCord",
+        "Success Rate(In Future)": "100% due to its creative ideas on digitizing small buisiness!",
+        "Team": {
+            "Members(It's by myself)": [
+                {
+                    "id": "0001",
+                    "type": "Developer!"
+                }
+            ]
+        },
+        "Services (All websites Designed by me)": [
+            {
+                "id": "0001",
+                "type": "Apta Enterprises",
+                "Website Link": "https://aptaenterprises.com/",
+                "Client": "APTA team from Bangalore"
+            },
+            {
+                "id": "0002",
+                "type": "Photo Editing Service part of TheBrainCord",
+                "Website Link": "creativeestates.co.in",
+                "Client": "APTA team from Bangalore"
+            },
+            {
+                "id": "0005",
+                "type": "Online Invitation Card",
+                "Website Link": "https://brandavana.homes/",
+                "Client": "APTA team from Bangalore"
+            },
+            {
+                "id": "0007",
+                "type": "Photo Editing Website",
+                "Website Link": "sunlightdesigning.co.in",
+                "Client": "APTA team from Bangalore"
+            },
+            {
+                "id": "0006",
+                "type": "You choose to Digitize",
+                "Website Link": "<yourbusiness>.co",
+                "Client": "You can be our next happy customer"
+            }
+        ]
+    }
+]
