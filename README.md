@@ -4,6 +4,6 @@
 - 💞️ I’m looking to collaborate with new small buisiness ideas and start digitalize them!
 - 📫 Reach me via by sending a mail: `braincord.multi.solutions@gmail.com` 
 - 😄 Pronouns: We
-- ⚡ Fun fact: I want to try out here everything without any Investment. But reinvest to groww *TheBrainCord* whatever comes from this! Just 2 years challenge!
+- ⚡ Fun fact: Trying everything out here without investing any money is what I want to do. However, reinvest anything that comes from this into growing **TheBrainCord**! The challenge has only been going on for two years, so let's share the status!
 
 Become a part of our growth by digitizing your business!
