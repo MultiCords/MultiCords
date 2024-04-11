@@ -1,6 +1,6 @@
 <h1>TheBrainCord MultiSolutions</h1>
 <hr>
-<q>All the new people who join us will be considered as <b>MultiCords</b>! MultiCords can be our <b>clients</b> or <b>technical skills or creative idea providers to grow TheBrainCord</b> or <b>sharing unique offline buisiness ideas which can be digitalize with us</b> or <b>Investors</b> or<b> Interested/Beleivers on TheBrainCord's future </b> and <b>Our Partners!</b>!</q> <br>(<b>MultiCords</b> have their unique ID which is privately managed by the <b>TheBrainCord</b> to experiment and implementing the BlockChain technology applications.)
+<q>All the new people who join us will be considered as <b>MultiCords</b>! MultiCords can be our <b>clients</b> or <b>technical skills or creative idea providers to grow TheBrainCord</b> or <b>sharing unique offline buisiness ideas which can be digitalize with us</b> or <b>Investors</b> or<b> Interested/Beleivers on TheBrainCord's future </b> and <b>Our Partners!</b>!</q>
 <hr>
 
 
@@ -13,14 +13,14 @@
 <li> 📫 <b>Reach me</b> via by sending a mail: <q><u>braincord.multi.solutions@gmail.com</u></q> </li>
 <li> 😄 <b>Slogan:</b> Lets build the digital world together!</li>
 <li> ⚡ <b>Milestone:</b> Trying every profitable options here without any investements (Zero to Hero)!<br> We only reinvest all the earnings which are in the form of <b>money, skills and new/creative people</b> connected through <b>TheBrainCord(MultiCords)</b> utilize to grow <b>TheBrainCord</b> till April 2025 strictly!</li>
-<li><b>Future Goal:</b> If we are succesfully achieve our goals as per our plannings, we will <b>move to BlockChain technology</b> to implement to manage the buisinesses and create something unique applications which can be helpful</b> to all <b>MultiCords</b> who are part of us with the latest upcoming technologies!)</li>
+<!-- <li><b>Future Goal:</b> If we are succesfully achieve our goals as per our plannings, we will <b>move to BlockChain technology</b> to implement to manage the buisinesses and create something unique applications which can be helpful</b> to all <b>MultiCords</b> who are part of us with the latest upcoming technologies!)</li> -->
 </ul>
 
 <q>You can become a part of **TheBrainCord** by <i>digitizing your small business</i> or <i>work with us by sharing your any kind of skills or ideas</i>!</q>
 
 <hr>
 <h2>Our Services:</h2>
-<p>We only commit the `Services` to clients with our great expertise `skills` and `knowledges` on below industries and we takeup them by making sure `available proper resources` with `strong plannings`!<br> TheBrainCord team verify the quality built from MultiCord teams and review all the services before handed over to you!<br><hr><br>
+<p>We will research and analyze the `Services` requested by client's requirements and expectations from our services. Also based on our great expertise `skills` and `knowledges` or `ideas` based on our experience on the services which are handling now, we can promise on the quality of our Real Estate Photo and Video edits and quick TurnAround Times! Web Applications within a week we will provide the output!<br><hr><br>
 
 <h3>RealEstate Industry</h3>
 <h4>1. Are you freelancer with Real Estate Photo Editing skills and trying to get more clients? </h4>
