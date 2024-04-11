@@ -8,11 +8,11 @@
 <ul>
 <li>👋 Hi, I’m <b>TheBrainCord MultiSolutions</b> providing the services in the name of <b>"MultiCord"</b></li>
 <li> 👀 I’m interested in <b>Coding</b> and <b>finding easy solutions to solve the problems</b>. But mostly ,b>we try to fix the problem</b>.</li>
-<li> 🌱 I’m currently providing Multiple Digital Services to make everything online!</li>
-<li> 💞️ <b>I’m looking to collaborate with</b> new small buisiness or ideas and understand them by researching those industries to start digitalize them to make fast growwing with the updated latest technologies!</li>
+<li> 🌱 I’m currently providing Multiple Digital Services to make your buisiness online if not yet!<br> Also providing the quality edits on your shoots in a Quick Turnaround for lesser prices!</li>
+<li> 💞️ <b>I’m looking to collaborate with</b> new small buisiness who are looking to create their buisiness online!<br> Also experienced professional photo and video editors are working with us looking for RealEstate photographers who are looking for outsourcing their pictures or videos to edit.</li>
 <li> 📫 <b>Reach me</b> via by sending a mail: <q><u>braincord.multi.solutions@gmail.com</u></q> </li>
 <li> 😄 <b>Slogan:</b> Lets build the digital world together!</li>
-<li> ⚡ <b>Milestone:</b> Trying every profitable options here without any investements (Zero to Hero)!<br> We only reinvest all the earnings which are in the form of <b>money, skills and new/creative people</b> connected through <b>TheBrainCord(MultiCords)</b> utilize to grow <b>TheBrainCord</b> till April 2025 strictly!</li>
+<li> ⚡ <b>Milestone:</b> Trying every profitable options here without any investements.</li>
 <!-- <li><b>Future Goal:</b> If we are succesfully achieve our goals as per our plannings, we will <b>move to BlockChain technology</b> to implement to manage the buisinesses and create something unique applications which can be helpful</b> to all <b>MultiCords</b> who are part of us with the latest upcoming technologies!)</li> -->
 </ul>
 
