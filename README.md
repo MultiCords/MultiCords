@@ -1,10 +1,10 @@
 <h1>TheBrainCord MultiSolutions</h1>
 <hr>
-<q>All the new minds who joins us will be considered as <b>MultiCords</b>! They can be our <b>clients by purchasing our services</b> or <b>technical skill providers in GitHub</b> or <b>sharing unique offline buisiness ideas which can be digitalize</b> or <b>Investors</b> or<b> Interested/Beleivers on TheBrainCord's future </b>!</q>
+<q>All the new minds who joins us will be considered as <b>MultiCords</b>! MultiCords can be our <b>clients</b> or <b>technical skills or creative idea providers to grow TheBrainCord</b> or <b>sharing unique offline buisiness ideas which can be digitalize with us</b> or <b>Investors</b> or<b> Interested/Beleivers on TheBrainCord's future </b> and <b>Our Partners!</b>!</q>
 <hr>
 
 
-<h2>Who are we?</h2>
+<h2>Customers do you know about us?</h2>
 <ul>
 <li>👋 Hi, I’m <b>TheBrainCord MultiSolutions</b> providing the services in the name of <b>"MultiCord"</b></li>
 <li> 👀 I’m interested in <b>Coding</b> and <b>finding easy solutions to solve the problems</b>. But mostly ,b>we try to fix the problem</b>.</li>
@@ -19,10 +19,10 @@
 <q><i>You can become a part of **TheBrainCord** by `digitizing your small business` or `work with us by sharing your any kind of skills or ideas`!<i></q>
 
 <hr>
-<h1>Services/Projects:</h1>
+<h2>Services/Projects:</h2>
 <p>We only commit the `Services` to clients with our great expertise `skills` and `knowledges` on below industries and we takeup them by making sure `available proper resources` with `strong plannings`!<br> TheBrainCord team verify the quality built from MultiCord teams and review all the services before handed over to you!<br><hr>[<b>Short term Goal:</b> But we will update our unique services in a form of buisiness once in a every 3 months!]</p><hr>
 
-<h2>RealEstate Industry</h2>
+<h3>RealEstate Industry</h3>
 1. <h4> Are you freelancer with Editing skills and trying to get clients? </h4>
 We are having **4 years of experience to handle the photographers and Listing agents in RealEstates Industries** with `multiple freelancers group` by providing following services:
 ** Creating Website for your buisiness and maintain the SEO to increase their visibilities!
@@ -40,7 +40,7 @@ Are you looking for similar services by us to handle your business wisely with t
 
 **Present Status:** All the `groups of FreeLancers/Small Organizations` are succesfully getting their regular clients and we are trust worthy to maintain their privacy of their data!
 
-<h2>Web Applications</h2>
+<h3>Web Applications</h3>
 2. <h4> Are you running a buisiness and not online yet? </h4>
 We are providing a `static and dynamic Website` hosting and maintain them for years! You just relax and invest on your buisiness Advertisement in a standard way.
 We provide the following services:
@@ -73,13 +73,30 @@ Along with above charges we add the following fixed charges additionally`[1 Home
 * Recently offered a free website to one of my old school friend who started the small buisiness to sell their `mechanical parts/products` by purchasing from `3rd parties`. Now they are in the process of moving into E-Commerce and now they are ready to pay us more than what we are expecting! E-commerce to sell their products project is undergoing in their website.
 * Created the multiple different designs of the responsive websites to US Photographers by adding `show casing their skills in a creative way` to the users! Only few of them we started handling the SEO and seeing the posive output.
 
+<hr>
+<h3>Online Invitation for Events</h3>
+3. <h4>Hey are you conducting any events? What if you forgot to invite someone due to you are busy in Event management and other stuffs?</h4>
+We provide the following solutions to avoid these cases. Along with invitations you can invest on creating online link which you can send/share in all social media to invite everyone whom you can't miss. [Everyone are on social media in the modern world and effectively people can check the new trend]
+** We will buy the domain which matches you events with its domain. [ex: House Warming- <b>.homes</b>, Marriage - <b>.love</b> and etc]
+** We have strong UI/UX developing MultiCords who creates the attractive user interfaces which will attract the users.
+** We will provide the domain in your name for maximum 3 months, if you want the domain forever we can buy them and maintain forver by regestering with the clients.
 
-
+**Pricing:**
+** We charge **$100** [**INR 8,500/-**] for the standard design of the invitation.
+** Additional features with creative unique invitation design we charge **$200 [INR 16,000/-]**
+** If you want the domain permenently on your name and registerd we charge **$400 [INR 35,000/-]** one time and we maintain them for long!
 
 
 
 <hr>
 <hr>
+
+
+
+
+
+
+
 
 <h2>Background on <b>TheBrainCord</b> founder 😄 </h2>
 [<b>Caution:</b> <imp>Read if you are intersted! Its just a story of mine how I thought to create and want to make this BIG in future</imp>]
