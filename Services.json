@@ -5,43 +5,44 @@
         "Service id": "0001",
         "type": "Web Applications",
         "name": "TheBrainCord",
-        "Success Rate(In Future)": "100% due to its creative ideas on digitizing small buisiness!",
+        "Success Rate(In Future)": "100% due to it's creative ideas on digitizing small buisiness!",
         "Team": {
-            "Members(It's by myself)": [
+            "Members": [
                 {
-                    "id": "0001",
+                    "id": "Dev001",
                     "type": "Developer + Founder"
+                    "Name": "Ravesh Ashok Naik"
                 }
             ]
         },
         "Services (All websites Designed by me)": [
             {
-                "id": "0001",
+                "Client id": "kll001",
                 "type": "Apta Enterprises",
                 "Website Link": "https://aptaenterprises.com/",
                 "Client": "APTA team from Bangalore"
             },
             {
-                "id": "0002",
+                "Client id": "kll002",
                 "type": "Photo Editing Service part of TheBrainCord",
                 "Website Link": "creativeestates.co.in",
                 "Client": "APTA team from Bangalore"
             },
             {
-                "id": "0005",
+                "Client id": "kll005",
                 "type": "Online Invitation Card",
                 "Website Link": "https://brandavana.homes/",
                 "Client": "APTA team from Bangalore"
             },
             {
-                "id": "0007",
+                "Client id": "kll006",
                 "type": "Photo Editing Website",
                 "Website Link": "sunlightdesigning.co.in",
                 "Client": "APTA team from Bangalore"
             },
             {
-                "id": "0006",
-                "type": "You choose to Digitize",
+                "Client id": "kll006",
+                "type": "You make your buisiness online. We will be adding here.",
                 "Website Link": "<yourbusiness>.co",
                 "Client": "You can be our next happy customer"
             }
@@ -55,64 +56,89 @@
         "Team": {
             "Members(No Personal Data Revealed of Employees)": [
                 {
-                    "id": "1001",
+                    "id": "Edt001",
                     "type": "Twilight and Virtual Staging Expert!"
                 },
                 {
-                    "id": "1002",
+                    "id": "Edt002",
                     "type": "HDR Expert"
                 },
                 {
-                    "id": "1003",
+                    "id": "Edt003",
                     "type": "Obstacle Remover"
                 }
             ]
         },
         "Services": [
             {
-                "id": "2001",
+                "id": "0002-1",
                 "type": "Image Enhancement",
                 "price": "$0.7"
             },
             {
-                "id": "2002",
+                "id": "0002-2",
                 "type": "Photo Corrections",
                 "price": "$0.6"
             },
             {
-                "id": "2005",
+                "id": "0002-3",
                 "type": "HDR Blending Corrections",
                 "Price": "$0.7"
             },
             {
-                "id": "2007",
+                "id": "0002-4",
                 "type": "Perspective Corrections",
                 "price": "$0.7"
             },
             {
-                "id": "2006",
+                "id": "0002-5",
                 "type": "Sky Replacement",
                 "price": "$0.4"
             },
             {
-                "id": "2003",
+                "id": "0002-6",
                 "type": "Drone Image Editing",
                 "price": "$2"
             },
             {
-                "id": "2004",
+                "id": "0002-7",
                 "type": "Twilight",
                 "price": "$5"
             },
             {
-                "id": "2004",
+                "id": "0002-8",
                 "type": "Virtual Staging",
                 "price": "$18"
             },
             {
-                "id": "2004",
+                "id": "0002-9",
                 "type": "360 degree",
                 "price": "$3"
+            }
+        ]
+    },
+    {
+        "Service id": "0003",
+        "type": "RealEstate Photo Edit",
+        "name": "Creative Estates",
+        "Success Rate(In Future)": "100% due to its quality output and +ve clients reviews!",
+        "Team": {
+            "Members(No Personal Data Revealed of Employees)": [
+                {
+                    "id": "Edt004",
+                    "type": "Tmporary video editor"
+                },
+                {
+                    "id": "Edt005",
+                    "type": "Video editor"
+                }
+            ]
+        },
+        "Services": [
+            {
+                "id": "0003-1",
+                "type": "Real Estate Video",
+                "price": "$20-$80"
             }
         ]
     }
