@@ -1,0 +1,35 @@
+version: '3.8'
+
+services:
+  # Build service for creating APK and App Bundle
+  tbc-build:
+    build:
+      context: .
+      dockerfile: .docker/tbs-academy-build/Dockerfile
+    container_name: tbc-academy-build
+    volumes:
+      - ./build:/app/build
+      - ./pubspec.lock:/app/pubspec.lock
+    environment:
+      - FLUTTER_HOME=/opt/flutter
+      - ANDROID_HOME=/opt/android-sdk
+    working_dir: /app
+    command: /bin/bash -c "/opt/flutter/bin/flutter build apk --release && /opt/flutter/bin/flutter build appbundle --release"
+
+  # Test service for running tests and analysis
+  tbc-test:
+    build:
+      context: .
+      dockerfile: .docker/tbc-academy-test/Dockerfile
+    container_name: tbc-academy-test
+    volumes:
+      - ./coverage:/app/coverage
+      - ./pubspec.lock:/app/pubspec.lock
+    environment:
+      - FLUTTER_HOME=/opt/flutter
+    working_dir: /app
+    command: /bin/bash -c "/opt/flutter/bin/flutter analyze && /opt/flutter/bin/flutter test --coverage"
+
+volumes:
+  build:
+  coverage:
